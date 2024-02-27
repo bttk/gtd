@@ -105,3 +105,18 @@ The task will link back to the email.
 <!--
 You can also drag from the message list to the sidebar.
 -->
+
+---
+
+## Speed up
+
+Increase your pace by using keyboard shortcuts. You may need to enable shortcuts in settings first.
+
+- `j`/`k` - Go to next/previous conversation
+- `u` - Go to list of conversations
+- `e` - Archive
+- `s` - Star
+- `b` - Snooze
+- `Shift + t` - Create a Task
+- `z` - Undo last action
+- `?` - See all shortcuts
