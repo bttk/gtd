@@ -7,7 +7,11 @@ footer: 'bttk 2024'
 --->
 
 # Getting things done
+
 with Gmail
+
+These slides: https://bttk.github.io/gtd
+Source code: https://github.com/bttk/gtd
 
 ---
 <!--
